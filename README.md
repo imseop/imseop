@@ -7,6 +7,14 @@
 
 
 <div align="center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🏅 Stats</h2>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=imseop&bg_color=30,91eae4,86A8E7&title_color=ffffff&text_color=ffffff" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imseop&layout=compact&bg_color=30,91eae4,86A8E7&title_color=ffffff&text_color=ffffff" />
+    </div>
+</div>
+
+<div align="center">
     <a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=swat7236">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=swat7236">
     </a>
