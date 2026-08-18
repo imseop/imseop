@@ -13,8 +13,6 @@
     </div>
 </div>
 
-<div align="center">
-    <a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=swat7236">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=swat7236">
-    </a>
-</div>
+<a href="https://programmers.co.kr/users/swat723600@gmail.com">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=swat723600@gmail.com" /> <!-- 예시 뱃지 포맷 -->
+</a>
